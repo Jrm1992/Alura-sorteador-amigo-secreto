@@ -27,4 +27,21 @@ export const Container = styled.div`
     background: #c4c4c4;
     font-size: 16px;
   }
+
+  @media screen and (max-width: 800px) {
+    input {
+      display: block;
+      width: 100%;
+      border-radius: 45px;
+      box-shadow: 0px 2px 0px 1px #000000;    
+      margin-bottom: 18px;
+    }
+    button {
+      display: block;
+      margin-top: 16px;
+      margin: 0 auto;
+      width: 220px;
+      border-radius: 45px;
+    }
+  }
 `
