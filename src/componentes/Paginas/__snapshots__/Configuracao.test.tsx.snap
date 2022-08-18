@@ -17,7 +17,7 @@ exports[`a pagina de configuracao deve ser renderizada corretamente 1`] = `
     />
   </header>
   <div
-    class="sc-gsnTZi gpwBIO card"
+    class="sc-gsnTZi bdkbbA card"
   >
     <div
       class="sc-eCYdqJ gYAAyq"
@@ -44,7 +44,7 @@ exports[`a pagina de configuracao deve ser renderizada corretamente 1`] = `
       </div>
       <ul />
       <footer
-        class="sc-hKMtZM hgYeTd rodape-configuracoes"
+        class="sc-hKMtZM hAXnBc rodape-configuracoes"
       >
         <button
           class="botao"

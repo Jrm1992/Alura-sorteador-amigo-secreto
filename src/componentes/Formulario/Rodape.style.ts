@@ -4,7 +4,7 @@ export const Rodape = styled.footer`
     display: flex;
     width: 100%;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 
     .botao {
         width: 350px;
