@@ -5,7 +5,7 @@
     <br />
   </p>
  
-  ## Um app para fazer aquele sorteio do amigo aculto de fim de ano.
+  ## Um app para fazer aquele sorteio do amigo aculto de fim de ano
 
   # Techs:
 
