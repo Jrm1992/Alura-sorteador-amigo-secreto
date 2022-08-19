@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const Rodape = styled.footer`
     display: flex;
     width: 100%;
+    max-width: 924px;
     align-items: center;
     justify-content: space-around;
 

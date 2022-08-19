@@ -10,7 +10,7 @@ export const Card = styled.div`
   margin-top: -32px;
   justify-content: center;
   min-height: 62vh;
-  width: 1024px;
+  width: 100%;
 
   h2{
     text-align: center;
